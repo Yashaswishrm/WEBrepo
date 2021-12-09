@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'USTwebapp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C6E26CA0B404FABA1FA1F96BABC799D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8A1DE864BB643619AE37DDC58AAA3D6 }}
           package: .
